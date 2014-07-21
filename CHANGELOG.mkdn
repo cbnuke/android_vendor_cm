@@ -1,9 +1,7 @@
 CyanogenMod
 ===============
 
-Visit http://github.com/CyanogenMod for full source and git access.
-
-Visit http://review.cyanogenmod.org for our Gerrit instance.
+Visit https://github.com/XperiaSTE for full source and git access.
 
 CHANGELOG (notable new features)
 ---------
